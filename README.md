@@ -1,7 +1,7 @@
 #  Quiz App
 
+![Screenshot](https://github.com/user-attachments/assets/e9b49cfc-619a-443a-a192-a680beff7d1f)
 
-![Ein Foto von der Seite!](/QuizApp/Screenshot.png)
 ### Beschreibung
 
 Dieses Projekt ist eine einfache Quiz-Anwendung, die mit HTML, CSS und JavaScript erstellt wurde. Die App ermöglicht es den Benutzern, eine Reihe von Multiple-Choice-Fragen zu beantworten. Die Endpunktzahl des Benutzers wird gespeichert, und die höchste erreichte Punktzahl wird ebenfalls angezeigt.
